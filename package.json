@@ -13,6 +13,7 @@
     "@fortawesome/free-brands-svg-icons": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "@gradio/client": "^2.7.2",
     "@nextui-org/react": "^2.2.10",
     "@nextui-org/system": "^2.0.15",
     "@types/bcrypt": "^5.0.1",
